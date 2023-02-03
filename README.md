@@ -9,14 +9,14 @@ Initialize the directory.
 
 $ terraform init
 
+
+you will see following screen
 <span style="color: black">
 Initializing the backend...
-
 Initializing provider plugins...
 - Finding hashicorp/aws versions matching "~> 4.16"...
 - Installing hashicorp/aws v4.17.0...
 - Installed hashicorp/aws v4.17.0 (signed by HashiCorp)
-
 Terraform has created a lock file .terraform.lock.hcl to record the provider
 selections it made above. Include this file in your version control repository
 so that Terraform can guarantee to make the same selections by default when
