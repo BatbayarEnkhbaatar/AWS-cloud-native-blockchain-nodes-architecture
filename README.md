@@ -10,7 +10,7 @@ Initialize the directory.
 $ terraform init
 
 
-you will see following screen
+********you will see following screen********
 <span style="color: black">
 
 Initializing the backend...
