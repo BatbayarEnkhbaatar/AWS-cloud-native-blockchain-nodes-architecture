@@ -8,6 +8,8 @@ Initializing a configuration directory downloads and installs the providers defi
 Initialize the directory.
 
 $ terraform init
+
+<span style="color: black">
 Initializing the backend...
 
 Initializing provider plugins...
@@ -29,3 +31,4 @@ should now work.
 If you ever set or change modules or backend configuration for Terraform,
 rerun this command to reinitialize your working directory. If you forget, other
 commands will detect it and remind you to do so if necessary.
+</span>
